@@ -2,11 +2,11 @@
 
 Our pre-trained model file is available at:
 
-trained on NUDT
-# https://pan.baidu.com/s/1IyNp7tkGa6Kd6hLFgDNetA and the code is qqyu.
+trained on NUDT:
 
-trained on NUAA
-# https://pan.baidu.com/s/1WpaF12ttKxoN5r1mIXFJ1g and the code is e26y.
+
+trained on NUAA:
+
 
 NUDT dataset
 https://github.com/YeRen123455/Infrared-Small-Target-Detection
