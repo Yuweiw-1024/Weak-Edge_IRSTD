@@ -1,0 +1,190 @@
+Mar 26 20:27:29 Epoch---10, total_loss---0.602361,
+Mar 26 20:28:42 Epoch---20, total_loss---0.230715,
+Mar 26 20:29:56 Epoch---30, total_loss---0.171007,
+Mar 26 20:31:10 Epoch---40, total_loss---0.149978,
+Mar 26 20:32:24 Epoch---50, total_loss---0.129929,
+
+[All heads evaluation]
+Head0 shape=(256, 256) | mIoU=80.78 | edge_IoU=80.98 | PD=98.10 | FA=1.740
+
+
+[Epoch 50/400] best_score candidate = 0.807763Head1 shape=(128, 128) | mIoU=81.59 | edge_IoU=86.52 | PD=98.52 | FA=2.840
+
+
+[Epoch 50/400] best_score candidate = 0.807763Head2 shape=(64, 64) | mIoU=84.68 | edge_IoU=90.10 | PD=97.77 | FA=3.750
+
+
+[Epoch 50/400] best_score candidate = 0.807763Head3 shape=(32, 32) | mIoU=89.63 | edge_IoU=92.96 | PD=97.55 | FA=8.530
+
+
+[Epoch 50/400] best_score candidate = 0.807763Head4 shape=(16, 16) | mIoU=91.01 | edge_IoU=93.67 | PD=97.85 | FA=21.767
+
+
+[Epoch 50/400] best_score candidate = 0.807763Mar 26 20:33:54 Epoch---60, total_loss---0.129649,
+Mar 26 20:35:08 Epoch---70, total_loss---0.129839,
+Mar 26 20:36:22 Epoch---80, total_loss---0.123689,
+Mar 26 20:37:36 Epoch---90, total_loss---0.114058,
+Mar 26 20:38:50 Epoch---100, total_loss---0.107388,
+
+[All heads evaluation]
+Head0 shape=(256, 256) | mIoU=86.56 | edge_IoU=86.40 | PD=98.84 | FA=1.462
+
+
+[Epoch 100/400] best_score candidate = 0.865565Head1 shape=(128, 128) | mIoU=84.38 | edge_IoU=88.26 | PD=98.62 | FA=1.967
+
+
+[Epoch 100/400] best_score candidate = 0.865565Head2 shape=(64, 64) | mIoU=85.60 | edge_IoU=90.72 | PD=98.62 | FA=4.008
+
+
+[Epoch 100/400] best_score candidate = 0.865565Head3 shape=(32, 32) | mIoU=89.80 | edge_IoU=93.67 | PD=98.51 | FA=6.618
+
+
+[Epoch 100/400] best_score candidate = 0.865565Head4 shape=(16, 16) | mIoU=91.73 | edge_IoU=94.53 | PD=97.85 | FA=14.119
+
+
+[Epoch 100/400] best_score candidate = 0.865565Mar 26 20:40:21 Epoch---110, total_loss---0.104300,
+Mar 26 20:41:34 Epoch---120, total_loss---0.095518,
+Mar 26 20:42:48 Epoch---130, total_loss---0.096047,
+Mar 26 20:44:02 Epoch---140, total_loss---0.091762,
+Mar 26 20:45:16 Epoch---150, total_loss---0.093964,
+
+[All heads evaluation]
+Head0 shape=(256, 256) | mIoU=90.60 | edge_IoU=90.82 | PD=98.84 | FA=1.209
+
+
+[Epoch 150/400] best_score candidate = 0.906045Head1 shape=(128, 128) | mIoU=85.79 | edge_IoU=89.61 | PD=98.94 | FA=1.756
+
+
+[Epoch 150/400] best_score candidate = 0.906045Head2 shape=(64, 64) | mIoU=88.29 | edge_IoU=92.46 | PD=98.94 | FA=2.905
+
+
+[Epoch 150/400] best_score candidate = 0.906045Head3 shape=(32, 32) | mIoU=91.29 | edge_IoU=94.42 | PD=98.40 | FA=5.883
+
+
+[Epoch 150/400] best_score candidate = 0.906045Head4 shape=(16, 16) | mIoU=92.26 | edge_IoU=94.88 | PD=98.49 | FA=19.414
+
+
+[Epoch 150/400] best_score candidate = 0.906045Mar 26 20:46:46 Epoch---160, total_loss---0.091780,
+Mar 26 20:48:00 Epoch---170, total_loss---0.090537,
+Mar 26 20:49:14 Epoch---180, total_loss---0.082121,
+Mar 26 20:50:28 Epoch---190, total_loss---0.079763,
+Mar 26 20:51:42 Epoch---200, total_loss---0.076559,
+
+[All heads evaluation]
+Head0 shape=(256, 256) | mIoU=93.21 | edge_IoU=93.40 | PD=98.41 | FA=0.198
+
+
+[Epoch 200/400] best_score candidate = 0.932072Head1 shape=(128, 128) | mIoU=87.01 | edge_IoU=90.74 | PD=98.52 | FA=0.230
+
+
+[Epoch 200/400] best_score candidate = 0.932072Head2 shape=(64, 64) | mIoU=88.45 | edge_IoU=92.70 | PD=97.77 | FA=0.404
+
+
+[Epoch 200/400] best_score candidate = 0.932072Head3 shape=(32, 32) | mIoU=91.75 | edge_IoU=94.64 | PD=97.33 | FA=1.765
+
+
+[Epoch 200/400] best_score candidate = 0.932072Head4 shape=(16, 16) | mIoU=93.00 | edge_IoU=95.89 | PD=97.96 | FA=5.295
+
+
+[Epoch 200/400] best_score candidate = 0.932072Mar 26 20:53:12 Epoch---210, total_loss---0.065578,
+Mar 26 20:54:26 Epoch---220, total_loss---0.063050,
+Mar 26 20:55:40 Epoch---230, total_loss---0.061096,
+Mar 26 20:56:54 Epoch---240, total_loss---0.059670,
+Mar 26 20:58:08 Epoch---250, total_loss---0.058859,
+
+[All heads evaluation]
+Head0 shape=(256, 256) | mIoU=93.92 | edge_IoU=94.11 | PD=98.41 | FA=0.271
+
+
+[Epoch 250/400] best_score candidate = 0.939200Head1 shape=(128, 128) | mIoU=89.05 | edge_IoU=91.99 | PD=98.52 | FA=0.349
+
+
+[Epoch 250/400] best_score candidate = 0.939200Head2 shape=(64, 64) | mIoU=89.59 | edge_IoU=93.44 | PD=98.20 | FA=0.772
+
+
+[Epoch 250/400] best_score candidate = 0.939200Head3 shape=(32, 32) | mIoU=92.89 | edge_IoU=95.31 | PD=98.08 | FA=2.353
+
+
+[Epoch 250/400] best_score candidate = 0.939200Head4 shape=(16, 16) | mIoU=93.56 | edge_IoU=96.13 | PD=98.28 | FA=6.471
+
+
+[Epoch 250/400] best_score candidate = 0.939200Mar 26 20:59:38 Epoch---260, total_loss---0.057344,
+Mar 26 21:00:52 Epoch---270, total_loss---0.058036,
+Mar 26 21:02:06 Epoch---280, total_loss---0.055879,
+Mar 26 21:03:20 Epoch---290, total_loss---0.055073,
+Mar 26 21:04:34 Epoch---300, total_loss---0.053731,
+
+[All heads evaluation]
+Head0 shape=(256, 256) | mIoU=94.32 | edge_IoU=94.55 | PD=98.84 | FA=0.239
+
+
+[Epoch 300/400] best_score candidate = 0.943164Head1 shape=(128, 128) | mIoU=89.83 | edge_IoU=92.79 | PD=98.73 | FA=0.313
+
+
+[Epoch 300/400] best_score candidate = 0.943164Head2 shape=(64, 64) | mIoU=89.44 | edge_IoU=93.48 | PD=98.62 | FA=0.699
+
+
+[Epoch 300/400] best_score candidate = 0.943164Head3 shape=(32, 32) | mIoU=93.28 | edge_IoU=95.69 | PD=98.29 | FA=2.206
+
+
+[Epoch 300/400] best_score candidate = 0.943164Head4 shape=(16, 16) | mIoU=93.88 | edge_IoU=96.37 | PD=98.28 | FA=4.118
+
+
+[Epoch 300/400] best_score candidate = 0.943164Mar 26 21:06:04 Epoch---310, total_loss---0.052471,
+Mar 26 21:07:18 Epoch---320, total_loss---0.052069,
+Mar 26 21:08:32 Epoch---330, total_loss---0.052589,
+Mar 26 21:09:46 Epoch---340, total_loss---0.052054,
+Mar 26 21:11:00 Epoch---350, total_loss---0.052236,
+
+[All heads evaluation]
+Head0 shape=(256, 256) | mIoU=94.38 | edge_IoU=94.56 | PD=98.84 | FA=0.322
+
+
+[Epoch 350/400] best_score candidate = 0.943811Head1 shape=(128, 128) | mIoU=90.16 | edge_IoU=93.05 | PD=99.05 | FA=0.358
+
+
+[Epoch 350/400] best_score candidate = 0.943811Head2 shape=(64, 64) | mIoU=89.64 | edge_IoU=93.63 | PD=98.73 | FA=0.809
+
+
+[Epoch 350/400] best_score candidate = 0.943811Head3 shape=(32, 32) | mIoU=93.58 | edge_IoU=95.98 | PD=98.72 | FA=2.206
+
+
+[Epoch 350/400] best_score candidate = 0.943811Head4 shape=(16, 16) | mIoU=93.88 | edge_IoU=96.33 | PD=98.17 | FA=4.118
+
+
+[Epoch 350/400] best_score candidate = 0.943811Mar 26 21:12:30 Epoch---360, total_loss---0.051877,
+Mar 26 21:13:44 Epoch---370, total_loss---0.051257,
+Mar 26 21:14:58 Epoch---380, total_loss---0.052063,
+Mar 26 21:16:12 Epoch---390, total_loss---0.051233,
+Mar 26 21:17:26 Epoch---400, total_loss---0.052276,
+
+[All heads evaluation]
+Head0 shape=(256, 256) | mIoU=94.41 | edge_IoU=94.66 | PD=98.84 | FA=0.250
+
+
+[Epoch 400/400] best_score candidate = 0.944069Head1 shape=(128, 128) | mIoU=90.08 | edge_IoU=93.08 | PD=98.94 | FA=0.313
+
+
+[Epoch 400/400] best_score candidate = 0.944069Head2 shape=(64, 64) | mIoU=89.50 | edge_IoU=93.59 | PD=98.83 | FA=0.772
+
+
+[Epoch 400/400] best_score candidate = 0.944069Head3 shape=(32, 32) | mIoU=93.51 | edge_IoU=95.80 | PD=98.29 | FA=2.206
+
+
+[Epoch 400/400] best_score candidate = 0.944069Head4 shape=(16, 16) | mIoU=93.94 | edge_IoU=96.46 | PD=98.28 | FA=3.530
+
+
+[Epoch 400/400] best_score candidate = 0.944069
+
+[BEST Epoch = 400]
+   mIoU= 94.41
+   nIoU= 94.20
+edge_IoU= 94.66
+    f1= 97.12
+   pre= 97.92
+recall= 96.33
+    FA= 0.250
+    PD= 98.84
+
+
+Training done. Best epoch=400, best miou=94.41, edge_IoU= 94.66
