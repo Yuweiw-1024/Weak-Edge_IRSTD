@@ -1,5 +1,6 @@
 # Weak-Edge_IRSTD
-Code for “Early Joint Detail-Context Discrimination for Weak-Edge Infrared Small Target Detection”\n
+Code for “Early Joint Detail-Context Discrimination for Weak-Edge Infrared Small Target Detection”
+
 Coming soon... 
 
 
