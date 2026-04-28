@@ -1,12 +1,14 @@
 # Weak-Edge_IRSTD
+Coming soon... 
+
 
 Our pre-trained model file is available at:
 
 trained on NUDT:
-Coming soon... https://github.com/Yuweiw-1024/Weak-Edge_IRSTD/edit/main/README.md
+https://pan.baidu.com/s/1shA6-i6RUgjJcXv0Vos1MA?pwd=2pxs
 
 trained on NUAA:
-Coming soon... https://github.com/Yuweiw-1024/Weak-Edge_IRSTD/edit/main/README.md
+https://pan.baidu.com/s/1KBpyH40QGDneThDbqRps6Q?pwd=8g8k
 
 NUDT dataset
 https://github.com/YeRen123455/Infrared-Small-Target-Detection
